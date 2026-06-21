@@ -41,7 +41,7 @@ Personal finance tracking application with budgeting, analytics and reporting fe
 
 ## About Me
 
-Final-year Software Engineering student focused on backend development, web applications and business management systems.
+Final-year Software Engineering student focused on full-stack development, web applications and business management systems.
 
 ## Contact
 
