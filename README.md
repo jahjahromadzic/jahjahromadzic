@@ -1,11 +1,11 @@
 # Hi, I'm Jahja 👋
 
-![C#](https://img.shields.io/badge/C%23-239120?logo=csharp)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?logo=dotnet)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
+![C#](https://img.shields.io/badge/C%23-111827?style=for-the-badge&logo=csharp&logoColor=239120)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-111827?style=for-the-badge&logo=dotnet&logoColor=512BD4)
+![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=336791)
+![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED)
 
 Software Developer | ASP.NET Core • React • PostgreSQL
 
